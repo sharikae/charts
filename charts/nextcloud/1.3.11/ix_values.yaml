@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: sharikae/nextcloud-ffmpeg
-  tag: '3.0'
+  tag: '4.0'
 nginx:
   image:
     pullPolicy: IfNotPresent
